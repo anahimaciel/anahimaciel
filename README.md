@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anahimaciel
 - 👀 I’m interested in music, programming, science, languages, bouldering, reading, pokemon and crochet.
-- 🌱 I’m currently studying about temporal data structures and data science.
+- 🌱 I’m currently studying temporal data structures and data science.
 
 
 <!---
