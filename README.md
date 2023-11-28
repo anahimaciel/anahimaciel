@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @anahi-pixel
-- 👀 I’m interested in music, programming, science, languages, rollerskating, chess, touch typing, pokemon and anime.
-- 🌱 I’m currently learning Python, Java and CSS.
-- 💞️ I’m looking to collaborate on open source table games.
-- 📫 How to reach me ... I'm mysterious
+- 👋 Hi, I’m @anahimaciel
+- 👀 I’m interested in music, programming, science, languages, bouldering, reading, pokemon and crochet.
+- 🌱 I’m currently studying about temporal data structures and data science.
+
 
 <!---
-anahi-pixel/anahi-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+anahimaciel/anahimaciel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
